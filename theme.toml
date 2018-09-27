@@ -16,6 +16,6 @@ min_version = 0.25
   homepage = "http://matcornic.github.io/"
 
 [original]
-  name = "Grav Learn"
-  homepage = "http://learn.getgrav.org/"
-  repo = "https://github.com/getgrav/grav-learn"
+  name = "Hubstairs Docs"
+  homepage = "docs.hubstairs.com"
+  repo = ""
